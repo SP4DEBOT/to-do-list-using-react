@@ -1,0 +1,1 @@
+A beginner-friendly To-Do List application built with React to learn and practice the fundamentals of React development. The primary goal of this project is to understand core concepts such as components, JSX, props, state management with useState, event handling, conditional rendering, and rendering lists while building a simple and interactive task management application.
